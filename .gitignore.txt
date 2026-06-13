@@ -1,0 +1,14 @@
+# .gitignore
+# Ignore the dataset folder
+data/
+/data/
+
+# Ignore generated model weights
+*.pth
+
+# Ignore generated hardware parameter dumps
+*.txt
+
+# Python cache files
+__pycache__/
+*.pyc

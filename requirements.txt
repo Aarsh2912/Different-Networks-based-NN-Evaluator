@@ -1,0 +1,5 @@
+To download the following libraries:
+torch
+torchvision
+numpy
+softposit - For Running models in the formats of Posit (32,2) , Posit (16,1) , Posit (8,0)
